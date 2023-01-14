@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/a-gallery-of-polish-fauna-and-flora/static/css/main.3da2cd69.css",
+    "main.js": "/a-gallery-of-polish-fauna-and-flora/static/js/main.1b61186e.js",
+    "static/media/18.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/18.45fbceaeaa11f9deb7ed.jpg",
+    "static/media/16.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/16.5fe3d1020f6b9cd60b1e.jpg",
+    "static/media/19.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/19.4f033f8fe6471846b348.jpg",
+    "static/media/20.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/20.a77c877a25eb2068d009.jpg",
+    "static/media/14.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/14.ae4bd7341011a0ab8fff.jpg",
+    "static/media/15.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/15.8c66e998ea7e5b6ff432.jpg",
+    "static/media/17.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/17.bb606bc4ac382841c132.jpg",
+    "static/media/12.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/12.4a82e7bf7727812637c5.jpg",
+    "static/media/13.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/13.7998b28aa1c071de2cc1.jpg",
+    "static/media/8.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/8.88dc692349df82227702.jpg",
+    "static/media/9.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/9.30c51402d7cf65abeae8.jpg",
+    "static/media/10.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/10.8b3632121783c887f9c1.jpg",
+    "static/media/5.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/5.229821dc3cf0e9f3c213.jpg",
+    "static/media/11.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/11.156e5663054b540dc1aa.jpg",
+    "static/media/6.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/6.231740da20c505dbe7c9.jpg",
+    "static/media/2.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/2.076408b40b28dd57ea1d.jpg",
+    "static/media/7.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/7.17016a8b666adf673914.jpg",
+    "static/media/3.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/3.6184ad4dc4c94ffa0c44.jpg",
+    "static/media/4.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/4.277b606b4421cc00174a.jpg",
+    "static/media/1.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/1.6d1a2cd8d14b67b84bcd.jpg",
+    "static/media/header_big.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/header_big.23186c1cc2c7c4111cf0.jpg",
+    "static/media/header_small.jpg": "/a-gallery-of-polish-fauna-and-flora/static/media/header_small.24d52ccbf696d1dd3adb.jpg",
+    "static/media/header_logo.png": "/a-gallery-of-polish-fauna-and-flora/static/media/header_logo.cd4ab68456d5875b788e.png",
+    "index.html": "/a-gallery-of-polish-fauna-and-flora/index.html",
+    "main.3da2cd69.css.map": "/a-gallery-of-polish-fauna-and-flora/static/css/main.3da2cd69.css.map",
+    "main.1b61186e.js.map": "/a-gallery-of-polish-fauna-and-flora/static/js/main.1b61186e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3da2cd69.css",
+    "static/js/main.1b61186e.js"
+  ]
+}

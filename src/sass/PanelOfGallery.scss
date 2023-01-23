@@ -1,0 +1,82 @@
+@keyframes animation_panelImg {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+.active {
+	overflow: hidden;
+}
+
+.panel-gallery {
+	position: fixed;
+	top: 0;
+	left: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+	padding: 20px;
+	background-color: rgba(0, 0, 0, 0.8);
+	animation: animation_panelImg linear 0.5s forwards;
+	z-index: 3;
+	&__img {
+		position: relative;
+		display: flex;
+		width: 80%;
+		overflow: hidden;
+		&--photo {
+			max-width: 100%;
+			transition: transform 0.5s;
+		}
+		&--close,
+		&--back,
+		&--forward {
+			position: absolute;
+			width: 30px;
+			cursor: pointer;
+		}
+		&--back,
+		&--forward {
+			top: 50%;
+			transform: translateY(-50%);
+			padding: 5px;
+			border-radius: 10px;
+			background-color: rgba(0, 0, 0, 0.5);
+			transition: background-color 0.3s linear;
+			&:hover {
+				background-color: rgba(0, 0, 0, 0.9);
+			}
+		}
+		&--close {
+			top: 0;
+			right: 0;
+			transition: transform 0.2s linear;
+			&:hover {
+				transform: scale(0.9);
+			}
+		}
+		&--back {
+			left: 2%;
+		}
+		&--forward {
+			right: 2%;
+		}
+	}
+}
+
+@media (min-width: 1024px) {
+	.panel-gallery {
+		&__img {
+			&--close,
+			&--back,
+			&--forward {
+				width: 50px;
+			}
+		}
+	}
+}

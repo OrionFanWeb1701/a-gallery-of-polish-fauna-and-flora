@@ -9,3 +9,5 @@ Application created with:
 - HTML
 - CSS (SASS)
 - JavaScript (React, Create React App)
+
+[Run the project - photo-gallery-and-slider](https://orionfanweb1701.github.io/a-gallery-of-polish-fauna-and-flora/)
